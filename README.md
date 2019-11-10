@@ -4,5 +4,5 @@ solution: mit self driving traffic code
 
 
 <p align="center">
-  <img src="deep-car-mit/Result.png" alt="deep-car-mit/Result.png" width="600" />
+  <img src="Result.png" alt="Result.png" width="600" />
 </p>
